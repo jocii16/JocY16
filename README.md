@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Joci and I'm a Freelance Designer, Web Developer, from Hungary</h2>
+<h2 align="left">Hi 👋! My name is Joci and I'm a Developer, from Hungary</h2>
 
 ###
 
